@@ -5,6 +5,8 @@ return {
     linters_by_ft = {
       python = { 'ruff' },
       go = { 'gopls' },
+      markdown = { 'vale' },
+      text = { 'vale' },
     },
   },
   config = function()

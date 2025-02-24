@@ -6,3 +6,5 @@ theme = jellybeans
 window-padding-x = 8
 window-padding-y = 8
 window-padding-balance = true
+
+keybind = ctrl+m=text:\n
