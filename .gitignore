@@ -1,0 +1,9 @@
+.DS_Store
+lazy-lock.json
+raycast/
+gh/
+.docker/
+.stow-local-ignore
+ruff/
+.config/tmux/plugins/
+.config/zed/prompts/
